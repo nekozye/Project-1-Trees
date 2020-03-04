@@ -3,13 +3,16 @@
 questions are in the file as follows
 
 #### Question 1
-  	c) BSTFunctions.java
-  	d) BSTFunctions.java
+  	BSTFunc.java
+    
+#### Question 3
+    Toolset.java
     
 #### Question 4
-  	c) BSTFunctions.java
-  	d) BSTFunctions.java
+  	AVLFunc.java
     
 #### Question 5
+    Testing.java
 
 #### Question 6
+    Testing.java
